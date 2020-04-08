@@ -1,0 +1,16 @@
+{
+"companyName": "Stanley Creative",
+"productName": "Nordija - Virtuel Stand",
+"productVersion": "0.7.3",
+"dataUrl": "Build 7-3 - Scene adjustments.data.unityweb",
+"wasmCodeUrl": "Build 7-3 - Scene adjustments.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build 7-3 - Scene adjustments.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.4f1"
+}
